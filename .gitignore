@@ -1,1 +1,3 @@
 FakeNewsNet\code\fakenewsnet_dataset\
+Models\sbert_all-MiniLM-L6-v2
+Models\sbert_paraphrase-MiniLM-L6-v2
