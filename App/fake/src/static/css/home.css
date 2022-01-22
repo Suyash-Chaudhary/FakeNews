@@ -1,0 +1,30 @@
+.home-container {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.home-container .heading {
+    font-size: 100px;
+}
